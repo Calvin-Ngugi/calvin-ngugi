@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **React, Flutter and Ruby**
+- 💬 Ask me about **React, Flutter and Ruby on rails**
 
 - 📫 How to reach me **ncalvin67@gmail.com**
 
