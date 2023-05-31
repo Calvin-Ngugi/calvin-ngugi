@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calvin-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="calvin-ngugi" /> </p>
 
-- 🔭 I’m currently working on **my personal portfolio**
+- 🔭 I’m currently working on **Elewa CLM project**
 
 - 🌱 I’m currently learning **Angular**
 
