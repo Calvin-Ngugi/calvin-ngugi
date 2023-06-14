@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Elewa CLM project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Akita and RXJS**
 
 - 💬 Ask me about **React, Flutter and Ruby on rails**
 
