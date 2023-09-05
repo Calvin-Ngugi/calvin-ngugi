@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calvin-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="calvin-ngugi" /> </p>
 
-- 🔭 I’m currently working on **Elewa CLM project**
+- 🔭 I’m currently working on **Ecommerce stores**
 
-- 🌱 I’m currently learning **Akita and RXJS**
-
-- 💬 Ask me about **React, Flutter and Ruby on rails**
+- 🌱 I’m currently learning **Next and graphql**
 
 - 📫 How to reach me **ncalvin67@gmail.com**
 
