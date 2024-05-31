@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calvin Ngugi</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calvin-ngugi" alt="calvin-ngugi" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=calvin-ngugi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 <img align="right" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calvin-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="calvin-ngugi" /> </p>
